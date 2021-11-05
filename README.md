@@ -1,6 +1,4 @@
-## Getting Started
-
-First, run the development server:
+## Reproduce the error
 
 ```sh
 git clone git@github.com:SimonSiefke/nextjs-bug-data-url.git &&
